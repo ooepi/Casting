@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\bin\Debug\Casting.exe.config
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\bin\Debug\Casting.exe
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\bin\Debug\Casting.pdb
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\obj\Debug\Casting.exe
+C:\Users\rober\OneDrive\projects\cs\Casting\Casting\obj\Debug\Casting.pdb
